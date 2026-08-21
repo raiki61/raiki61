@@ -1,6 +1,6 @@
 # raiki61
 
-普段の開発で気づいた摩擦を、Claude Code用のプラグインにして直しています。[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)にもコントリビュートしています。
+普段の開発で気づいた摩擦を、Claude Code用のプラグインにして直しています。
 
 ## 作ったもの
 
